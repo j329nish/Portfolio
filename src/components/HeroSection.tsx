@@ -48,7 +48,7 @@ export default function HeroSection() {
               className="text-xl text-muted-foreground mb-6"
               variants={childVariants}
             >
-              Software Engineer 👨‍💻
+              愛媛大学 工学部 工学科 コンピュータ科学コース 人工知能研究室 B4
             </motion.p>
 
             <motion.div

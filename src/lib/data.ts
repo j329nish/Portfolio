@@ -1,7 +1,7 @@
 export const personalInfo = {
-  name: "Shoto Nishida",
+  name: "西田祥人（Nishida Shoto）",
   location: "松山, 日本",
-  email: "syoutochoco526@gmail.com",
+  email: "nishida@ai.cs.ehime-u.ac.jp",
   github: "https://github.com/j329nish",
   linkedin: "",
 };
@@ -30,6 +30,7 @@ export const education = [
     ],
   },
 ];
+
 export const skills = {
   programmingLanguages: [
     "Python",
