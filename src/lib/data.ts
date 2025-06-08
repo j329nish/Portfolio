@@ -47,6 +47,7 @@ export const skills = {
   ],
   backendDevelopment: ["PHP"],
   databaseAndStorage: ["MySQL"],
+  cloudAndDevOps: ["None"],
   toolsAndServices: [
     "GitHub",
     "notion",
